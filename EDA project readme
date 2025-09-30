@@ -1,0 +1,15 @@
+Exploratory Data Analysis (EDA) on a Customer Churn dataset
+
+📌 Features
+Data Cleaning & Preprocessing
+Handling Missing Values & Duplicates
+Data Visualization & Insights
+Customer Churn Analysis
+
+📂 Dataset
+The dataset used is customer_churn.csv, which includes customer details, service usage, and churn labels.
+
+🚀 Technologies Used
+Python 🐍
+Pandas & NumPy 🏗️ (Data Manipulation)
+Matplotlib & Seaborn 📊 (Data Visualization)
